@@ -31,7 +31,7 @@ This hands-on project introduces the use of **Apache Spark with Python (PySpark)
 | File | Description |
 |------|-------------|
 | `Data Analysis using PySpark(c).ipynb` | Colab notebook covering the full guided PySpark data analysis project. |
-| `dataset` | Contains the dataset used for this project |
+| `dataset` | Click here to access the dataset : https://drive.google.com/drive/folders/1ZhV5LxuRBYiD81HJHQTheQawXZ5MkPim?usp=sharing |
 
 ---
 
